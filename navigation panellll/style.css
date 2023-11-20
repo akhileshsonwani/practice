@@ -1,0 +1,23 @@
+ul{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    background-color: grey;
+   list-style-type: none;
+   width:100%; 
+  
+
+  
+}
+li a{
+    text-decoration: none;
+    color: red;
+    float: right;
+    display: block;
+   padding: 8px 16px;
+
+   
+}
+li a:hover{background-color:pink;
+    color:green;
+}
